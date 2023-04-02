@@ -48,9 +48,9 @@ const textaniLoad = () =>{
     },0);
     setTimeout(() =>{
         textani.textContent = "learning React js";
-    },6000);
+    },5995);
     setTimeout(() =>{
-        textani.textContent = "wishing to be Data Scientist";
+        textani.textContent = "wishing to become Data Scientist";
         setInterval(textaniLoad, 6000);
     },12000);
 }
