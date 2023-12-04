@@ -138,6 +138,9 @@ span{
     color: var(--main-color);
     margin-left: 10px;
 }
+.ff{
+    color: var(--main-color);
+}
 .button{
     color: var(--second-bg-color);
     padding: 1rem 2.8rem;
