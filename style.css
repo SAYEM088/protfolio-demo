@@ -18,7 +18,7 @@ a{
     text-decoration: none;
 }
 html{
-    font-size: 54%;
+    font-size: 56%;
    
 }
 body{
@@ -418,7 +418,7 @@ font-size: 4.5rem;
 /* media responsive */
 @media (max-width:1200px) {
     html{
-        font-size: 45%;
+        font-size: 50%;
     }
 }
 @media (max-width:990px) {
